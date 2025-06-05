@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 
 ![snake gif](https://github.com/yulimmm/yulimmm/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img src="https://github.com/yulimmm/yulimmm/blob/output/github-snake-dark.svg" width="98%">
+</div>
+<br>
